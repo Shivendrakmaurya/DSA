@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int firstposition(vector<int>& nums, int target){
         int n=nums.size();
         int st =0, end = n-1;
